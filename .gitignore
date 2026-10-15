@@ -1,0 +1,17 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+.env
+.env.*
+!.env.example
+data/raw/
+models/
+*.joblib
+*.pt
+*.pth
+reports/*.csv
+reports/*.json
